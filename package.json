@@ -1,0 +1,42 @@
+{
+  "name": "tg-comment-assistant",
+  "version": "1.0.0",
+  "description": "Telegram бот-ассистент для генерации комментариев к постам в соцсетях",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "node test-api.js",
+    "cleanup": "node scripts/cleanup-chats.js cleanup",
+    "stats": "node scripts/cleanup-chats.js stats",
+    "deploy": "bash deploy.sh",
+    "pm2:start": "pm2 start ecosystem.config.js",
+    "pm2:stop": "pm2 stop tg-comment-bot",
+    "pm2:restart": "pm2 restart tg-comment-bot",
+    "pm2:logs": "pm2 logs tg-comment-bot",
+    "pm2:status": "pm2 status",
+    "db:migrate": "node scripts/migrate-to-database.js",
+    "db:check": "node scripts/check-database.js",
+    "db:fix": "node scripts/fix-active-chat.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "better-sqlite3": "^12.2.0",
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "qwen",
+    "ai",
+    "comments",
+    "social-media"
+  ],
+  "author": "",
+  "license": "MIT"
+}

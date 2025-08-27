@@ -1,0 +1,81 @@
+{
+  "534236955": {
+    "chats": [
+      {
+        "id": "chat_1756288175323_n0kuivpnc",
+        "name": "Основной чат",
+        "createdAt": "2025-08-27T09:49:35.323Z",
+        "lastUsed": "2025-08-27T09:49:35.323Z",
+        "messageCount": 0
+      }
+    ],
+    "activeChatId": "chat_1756288175323_n0kuivpnc"
+  },
+  "585599634": {
+    "chats": [
+      {
+        "id": "chat_1756287534907_9xau7vkp6",
+        "name": "Основной чат",
+        "createdAt": "2025-08-27T09:38:54.907Z",
+        "lastUsed": "2025-08-27T09:41:03.435Z",
+        "messageCount": 1
+      }
+    ],
+    "activeChatId": "chat_1756287534907_9xau7vkp6"
+  },
+  "587533331": {
+    "chats": [
+      {
+        "id": "chat_1756288118080_9brunnv6g",
+        "name": "Основной чат",
+        "createdAt": "2025-08-27T09:48:38.080Z",
+        "lastUsed": "2025-08-27T09:51:42.311Z",
+        "messageCount": 1
+      }
+    ],
+    "activeChatId": "chat_1756288118080_9brunnv6g"
+  },
+  "804498630": {
+    "chats": [
+      {
+        "id": "chat_1756288121664_7de9kpl6k",
+        "name": "Основной чат",
+        "createdAt": "2025-08-27T09:48:41.664Z",
+        "lastUsed": "2025-08-27T09:50:53.468Z",
+        "messageCount": 1
+      }
+    ],
+    "activeChatId": "chat_1756288121664_7de9kpl6k"
+  },
+  "885683298": {
+    "chats": [
+      {
+        "id": "chat_1756284857770_pjbg7ef7o",
+        "name": "Основной чат",
+        "createdAt": "2025-08-27T08:54:17.770Z",
+        "lastUsed": "2025-08-27T08:54:17.770Z",
+        "messageCount": 0
+      },
+      {
+        "id": "chat_1756284893180_rbi6bipcz",
+        "name": "Admin",
+        "createdAt": "2025-08-27T08:54:53.180Z",
+        "lastUsed": "2025-08-27T11:24:47.766Z",
+        "messageCount": 4
+      }
+    ],
+    "activeChatId": "chat_1756284893180_rbi6bipcz"
+  },
+  "1238017770": {
+    "chats": [
+      {
+        "id": "chat_1756286785437_w7q72qasm",
+        "name": "Основной чат",
+        "createdAt": "2025-08-27T09:26:25.437Z",
+        "lastUsed": "2025-08-27T11:34:08.594Z",
+        "messageCount": 6
+      }
+    ],
+    "activeChatId": "chat_1756286785437_w7q72qasm"
+  }
+}
